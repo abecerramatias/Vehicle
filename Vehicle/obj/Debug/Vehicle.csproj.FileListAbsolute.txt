@@ -2,3 +2,4 @@ C:\Users\Alberto Becerra\documents\visual studio 2015\Projects\Vehicle\Vehicle\b
 C:\Users\Alberto Becerra\documents\visual studio 2015\Projects\Vehicle\Vehicle\bin\Debug\Vehicle.pdb
 C:\Users\Alberto Becerra\documents\visual studio 2015\Projects\Vehicle\Vehicle\obj\Debug\Vehicle.dll
 C:\Users\Alberto Becerra\documents\visual studio 2015\Projects\Vehicle\Vehicle\obj\Debug\Vehicle.pdb
+C:\Users\Alberto Becerra\documents\visual studio 2015\Projects\Vehicle\Vehicle\obj\Debug\Vehicle.csprojResolveAssemblyReference.cache
