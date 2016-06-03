@@ -44,6 +44,19 @@ namespace Vehicle.Tests
         }
 
         [TestMethod]
+        public void AccelerateTo400rpm()
+        {
+            //Arrange
+            engineMock.Expect(e => e.GetRpm()).Return(0);
+
+            //Act
+            car.Accelerate(400);
+
+            //Assert
+            engineMock.AssertWasCalled(e => e.SetRpm(400));
+        }
+
+        [TestMethod]
         public void CalculatesSpeed()
         {
             //Arrange
